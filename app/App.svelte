@@ -28,7 +28,7 @@
                 <flexboxLayout class="product">
                     <stackLayout>
                         <label class="h2" text={item.fields.title} />
-                        <label class="body" text={item.fields.price}$ />
+                        <label class="body" text=${item.fields.price} />
                     </stackLayout>
                     <image src={item.fields.image} stretch="aspectFit" />
                 </flexboxLayout>
