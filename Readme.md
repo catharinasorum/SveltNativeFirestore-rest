@@ -12,4 +12,4 @@ tns run [ios|android]
 This is a single page application. Everything is handled in app/App.svelte. This file...
 - fetches data from firestpre in the svelte onMount function
 - uses a <a href='http://svelte-natice.technology/docs#scrollview'>scrollView</a>
-- you are not able to do anything further with the items - i.e delete, update and add - so the example just serves as a demo of how you can include firestore data in a simple ass
+- you are not able to do anything further with the items - i.e delete, update and add - so the example just serves as a demo of how you can include firestore data in a simple app
